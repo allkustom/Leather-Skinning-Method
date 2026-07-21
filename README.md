@@ -16,7 +16,7 @@ Also can be used on attaching paper with pattern or graphics on the surface.
 3. Export the offset surface as an OBJ and import into Blender
 4. Enter Edit mode and mark Seam
 5. Unfold via 'Export Paper Model' and export as SVG
-6. Clean up SVG via Adboe Illustrator
+6. Clean up SVG via Adobe Illustrator
 7. Insert SVG on the Fusion 360 sketch
 8. Use template and stitch
 
@@ -96,7 +96,7 @@ Then export SVG
 ![Blender Export Details](/0%20assets/blender%20export%20detail.png)
 
 
-## 6. Clean up SVG via Adboe Illustrator
+## 6. Clean up SVG via Adobe Illustrator
 
 Import SVG into Adobe Illustrator. (Can be any software which can edit SVG as a vector file)
 
