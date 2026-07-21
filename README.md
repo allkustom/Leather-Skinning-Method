@@ -38,7 +38,10 @@ And apply path following pattern with least 2mm distance between each holes.
 ![Fusion Hole Pattern](/0%20assets/fusion%20hole%20pattern.png)
 
 And add marks for the seam for the later unfolding process.
-In my case, I add small triangles.
+In my case, I added small triangles.
+
+(This example doesn't require any seam for unfolding. Apply this feature only when it's needed)
+
 ![Fusion Mark](/0%20assets/fusion%20mark.png)
 
 ## 2. Offset Surface
