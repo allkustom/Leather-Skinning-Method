@@ -135,3 +135,13 @@ Stitch the leather on the 3D printed model(with stitch holes).
 
 ![Result1](/0%20assets/result%201.JPG)
 ![Result2](/0%20assets/result%202.JPG)
+
+---
+
+Below is the example of paper attaching.
+
+You can just print directly from SVG. With some patterns and graphics.
+
+![Paper1](/0%20assets/paper%201.JPG)
+![Paper2](/0%20assets/paper%202.JPG)
+![Paper3](/0%20assets/paper%203.JPG)
